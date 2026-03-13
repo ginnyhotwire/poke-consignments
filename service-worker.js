@@ -1,5 +1,5 @@
 
-const CACHE="commission-app-v5"
+const CACHE="commission-app-v6"
 
 const files=[
 "./",
