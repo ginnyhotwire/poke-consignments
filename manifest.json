@@ -1,14 +1,14 @@
 
 {
-"name": "Consignment Commission App",
-"short_name": "Consignment",
-"start_url": "index.html",
+"name": "Twinleaf Consignments",
+"short_name": "Twinleaf",
+"start_url": "./index.html",
 "display": "standalone",
-"background_color": "#fde6ef",
-"theme_color": "#FF4081",
+"background_color": "#e8f2be",
+"theme_color": "#28936b",
 "icons": [
 {
-"src": "ICON.png",
+"src": "./ICON.png",
 "sizes": "512x512",
 "type": "image/png"
 }
